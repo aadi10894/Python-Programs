@@ -1,0 +1,37 @@
+
+Total Count:
+
+Book                       Line Count      Character Count        Letter Count
+pride_prejudice.txt             13427               704189              551714
+french_book.txt                 16581              1012440              802003
+
+Actual:
+Book                       Consonants         Vowels
+pride_prejudice.txt            328953         222761
+french_book.txt                435756         366247
+
+Expected:
+Book                       Consonants         Vowels
+pride_prejudice.txt         311660.90      240053.10
+french_book.txt             453048.10      348954.90
+
+Degress of Freedom =  1
+chi-square = 3721.96
+
+
+Vowel Counts:
+
+Actual:
+Book                            a            e            i            o            u            y
+pride_prejudice.txt         42696        71199        38947        41378        15509        13032
+french_book.txt             70481       137907        61992        40773        52902         2455
+
+
+Expected:
+Book                            a            e            i            o            u            y
+pride_prejudice.txt      42784.09     79047.95     38157.78     31055.39     25861.28      5854.52
+french_book.txt          70392.91    130058.05     62781.22     51095.61     42549.72      9632.48
+
+Degree of Freedom =  5
+chi-square = 27606.45
+
