@@ -1,0 +1,65 @@
+  decrement      current      count
+                    1000 
+          1          990         10    **********         
+          2          980          5    *****              
+          3          950         10    **********         
+          4          930          5    *****              
+          5          920          2    **                 
+          6          890          5    *****              
+          7          820         10    **********         
+          8          780          5    *****              
+          9          690         10    **********         
+         10          680          1    *                  
+         11          570         10    **********         
+         12          510          5    *****              
+         13          380         10    **********         
+         14          310          5    *****              
+         15          280          2    **                 
+         16          200          5    *****              
+         17           30         10    **********         
+         18           12          1    *                  
+
+
+ There were 111 number spoken with 18 differnet increments.
+ Average cycles/incr: 6.17 
+
+
+ There were 988 numbers passed by with 18 different increments.
+ Average numbers/incr: 54.89 
+
+
+
+
+
+  decrement      current      count
+                      20 
+          1           10         10    **********         
+          2            0          5    *****              
+
+
+ There were 15 number spoken with 2 differnet increments.
+ Average cycles/incr: 7.50 
+
+
+ There were 20 numbers passed by with 2 different increments.
+ Average numbers/incr: 10.00 
+
+
+
+
+
+  decrement      current      count
+                      21 
+          1           20          1    *                  
+          2           10          5    *****              
+          3            1          3    ***                
+
+
+ There were 9 number spoken with 3 differnet increments.
+ Average cycles/incr: 3.00 
+
+
+ There were 20 numbers passed by with 3 different increments.
+ Average numbers/incr: 6.67 
+
+
